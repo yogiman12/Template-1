@@ -8,3 +8,10 @@ body{
     font-family: "Work Sans","sans serif";
     
 }
+.parent{
+    background-color: #eee;
+}
+.container{
+    width: 50vh;
+    margin: auto;
+}
