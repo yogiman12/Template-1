@@ -90,6 +90,7 @@ body{
     min-width: 200px;
     top: calc(100% +15px);
     /*    display: none;*/
+    
 }
 .header .links ul ::before {
     content:"" ;
@@ -105,5 +106,6 @@ body{
     display: block;
     padding: 15px;
     text-decoration: none;
-    
+    color: #333;
+    transition: 0.3s;
 }
