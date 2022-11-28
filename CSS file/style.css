@@ -55,6 +55,8 @@ body{
     width: 30px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: flex-end;
+
 }
 .header .links .icon span{
     background-color: #333;
