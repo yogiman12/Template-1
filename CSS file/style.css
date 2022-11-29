@@ -229,8 +229,8 @@ color: var(--main-color);
 
     .services .services-content .srv {
       flex-direction: column;
+      text-align: center;
       
-
     }
   }
 
