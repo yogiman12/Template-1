@@ -246,5 +246,6 @@ color: var(--main-color);
 .services .services-content .srv .text p {
     color: #444;
     font-weight: 300;
+    line-height: 1.6;
 }
 /* end services */
