@@ -249,6 +249,10 @@ color: var(--main-color);
     font-weight: 300;
     line-height: 1.6;
 }
+.services .services-content .image {
+    text-align: center;
+    position: relative;
+  }
 .services .services-content .srv .image::before {
     content: "";
     background-color: var(--secondary-color);
@@ -257,6 +261,7 @@ color: var(--main-color);
     top: -50px;
     z-index: -1;
     position: absolute;
+    right: 0;
    
 }
 .services .services-content .srv .image img {
