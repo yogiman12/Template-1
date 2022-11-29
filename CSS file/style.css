@@ -233,5 +233,8 @@ color: var(--main-color);
       
     }
   }
+.services .services-content .srv i {
+    color:  var(--main-color);
+}
 
 /* end services */
