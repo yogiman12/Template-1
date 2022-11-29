@@ -128,3 +128,6 @@ body{
 .landing .intro-text h1 {
     margin: 0;
 }
+.landing .intro-text {
+    position: absolute;
+}
