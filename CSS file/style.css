@@ -214,4 +214,7 @@ color: var(--main-color);
     padding-top: 60px ;
     padding-bottom: 60px;
 }
+.services .services-content{
+    display:  grid;
+}
 /* end services */
