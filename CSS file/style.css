@@ -345,6 +345,7 @@ color: var(--main-color);
     content: "";
     position: absolute;
     width: 120px;
+    height: 300px;
 }
 
 /* end about */
