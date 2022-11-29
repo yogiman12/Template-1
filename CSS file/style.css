@@ -342,6 +342,8 @@ color: var(--main-color);
 }
 .about .about-content .image::after{
     top: -40px;
+    content: "";
+    position: absolute;
 }
 
 /* end about */
