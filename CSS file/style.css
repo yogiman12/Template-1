@@ -1,5 +1,6 @@
 :root{
     --main-color :#10cab7;
+    --secondary-color:#2c4755;
 }
 
 *{
@@ -250,7 +251,7 @@ color: var(--main-color);
 }
 .services .services-content .srv .image::before {
     content: "";
-    
+    background-color: var(--secondary-color);
 }
 .services .services-content .srv .image img {
     width: 260px;
