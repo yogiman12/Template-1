@@ -357,5 +357,6 @@ color: var(--main-color);
 .about .about-content .text p:first-of-type {
     font-weight: bold;
     line-height: 2;
+    margin-bottom: 60px;
 }
 /* end about */
