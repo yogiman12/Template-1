@@ -248,4 +248,9 @@ color: var(--main-color);
     font-weight: 300;
     line-height: 1.6;
 }
+.services .services-content .srv .image::before {
+    content: "";
+    
+}
+
 /* end services */
