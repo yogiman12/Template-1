@@ -252,5 +252,8 @@ color: var(--main-color);
     content: "";
     
 }
+.services .services-content .srv .image img {
+    width: 260px;
+}
 
 /* end services */
