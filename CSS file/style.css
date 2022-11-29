@@ -335,6 +335,7 @@ color: var(--main-color);
     position: absolute;
     background-color: #ebeced;
     width: 100%;
+    height:  calc( 100% + 80px);
 }
 
 
