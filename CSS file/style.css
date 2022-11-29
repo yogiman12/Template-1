@@ -263,4 +263,9 @@ color: var(--main-color);
     width: 260px;
 }
 
+@media (max-width: 1199px) {
+    .image-column {
+      display: none;
+    }
+  }
 /* end services */
