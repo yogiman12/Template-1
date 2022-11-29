@@ -121,4 +121,6 @@ body{
 /*end heading*/
 .landing{
     background-image: url(../image/mbw.jpg);
+    background-size: cover;
+
 }
