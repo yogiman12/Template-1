@@ -330,6 +330,10 @@ color: var(--main-color);
     width: 250px;
     height: 375px;
 }
+.about .about-content .image::before{
+    content: "";   
+    position: absolute;
+}
 
 
 /* end about */
