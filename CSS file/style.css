@@ -338,6 +338,7 @@ color: var(--main-color);
     height:  calc( 100% + 80px);
     top: -40px;
     left: -20px;
+    z-index: -1;
 }
 
 
