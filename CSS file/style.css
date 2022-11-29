@@ -366,6 +366,6 @@ color: var(--main-color);
 }
 .about .about-content .text p:last-of-type{
     line-height: 2;
-
+    color: #777;
 }
 /* end about */
