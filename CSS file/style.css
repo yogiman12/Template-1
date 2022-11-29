@@ -351,5 +351,8 @@ color: var(--main-color);
     z-index: -1;
     right: -150px;
 }
+.about .about-content .text {
+    flex-basis: calc(100% - 500px);
+}
 
 /* end about */
