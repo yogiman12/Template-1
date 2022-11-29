@@ -291,5 +291,9 @@ color: var(--main-color);
 
 
 }
+.portfolio .portfolio-content .card{
+    background-color: white;
+}
+
 
 /* end Portfolio */
