@@ -348,6 +348,8 @@ color: var(--main-color);
     height: 300px;
     border-bottom: 80px solid var(--main-color);
     border-left: 80px solid var(--main-color);
+    z-index: -1;
+    
 }
 
 /* end about */
