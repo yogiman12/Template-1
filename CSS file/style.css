@@ -122,5 +122,5 @@ body{
 .landing{
     background-image: url(../image/mbw.jpg);
     background-size: cover;
-
+    height: calc(100vh - 64px) ;
 }
