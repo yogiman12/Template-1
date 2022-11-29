@@ -124,3 +124,7 @@ body{
     background-size: cover;
     height: calc(100vh - 64px) ;
 }
+
+.landing .intro-text h1 {
+    margin: 0;
+}
