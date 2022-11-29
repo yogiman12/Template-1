@@ -225,5 +225,13 @@ color: var(--main-color);
     display: flex;
     margin-bottom: 40px;
 }
+@media (max-width: 767px) {
+
+    .services .services-content .srv {
+      flex-direction: column;
+      
+
+    }
+  }
 
 /* end services */
