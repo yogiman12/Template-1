@@ -255,6 +255,8 @@ color: var(--main-color);
     width: 80px;
     height: calc(100% + 120px) ;
     top: -50px;
+    z-index: -1;
+    position: absolute;
    
 }
 .services .services-content .srv .image img {
