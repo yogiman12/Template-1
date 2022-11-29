@@ -2,6 +2,7 @@
     --main-color :#10cab7;
     --secondary-color:#2c4755;
     --section-padding:60px;
+    --section-background: #f6f6f6 ;
 }
 
 *{
@@ -22,7 +23,7 @@ body{
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-    background-color:;
+    background-color:var(--section-background);
 }
 
 @media (min-width:768px) {
@@ -117,7 +118,7 @@ body{
     list-style: none;
     margin: 0;
     padding: 0;
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
     position: absolute;
     right: 0;
     min-width: 200px;
@@ -183,8 +184,8 @@ body{
 }
 /*start features*/
 .features{
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
     background-color: #f6f6f6;
     
 }
@@ -214,7 +215,7 @@ color: var(--main-color);
 /* start services */
 .services{
     padding-top: var(--section-padding) ;
-    padding-bottom: 60px;
+    padding-bottom: var(--section-padding);
 }
 .services .services-content{
     display:  grid;
