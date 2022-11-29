@@ -317,5 +317,6 @@ color: var(--main-color);
 }
 .about-content{
     margin-top: 100px;
+    display: flex;
 }
 /* end about */
