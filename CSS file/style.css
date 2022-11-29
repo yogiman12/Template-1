@@ -321,9 +321,15 @@ color: var(--main-color);
     flex-wrap: wrap;
     justify-content: space-between;
 }
+.about .about-content .image img{
+    max-width: 100%;
+    
+}
 .about .about-content .image{
     position: relative;
     width: 250px;
     height: 375px;
 }
+
+
 /* end about */
