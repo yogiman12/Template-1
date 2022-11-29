@@ -399,4 +399,8 @@ color: var(--main-color);
     padding-bottom: var(--section-padding);
     text-align: center;
   }
+  .contact .info .label {
+    font-size: 35px;
+
+  }
 /* end contact */
