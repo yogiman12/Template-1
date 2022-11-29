@@ -356,5 +356,6 @@ color: var(--main-color);
 }
 .about .about-content .text p:first-of-type {
     font-weight: bold;
+    line-height: 2;
 }
 /* end about */
