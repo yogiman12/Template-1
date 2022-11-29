@@ -357,6 +357,13 @@ color: var(--main-color);
     z-index: -1;
     right: -150px;
 }
+@media (max-width: 991px) {
+    .about .about-content .image::before,
+    .about .about-content .image::after {
+      display: none;
+    }
+  }
+
 .about .about-content .text {
     flex-basis: calc(100% - 500px);
 }
