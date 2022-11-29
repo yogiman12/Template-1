@@ -223,6 +223,7 @@ color: var(--main-color);
 
 .services .services-content .srv{
     display: flex;
+    margin-bottom: 40px;
 }
 
 /* end services */
