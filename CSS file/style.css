@@ -20,7 +20,7 @@ body{
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #aaa;
+    background-color:;
 }
 
 @media (min-width:768px) {
@@ -53,6 +53,7 @@ body{
     margin: -3px 0 0;
     font-size: 20px;
     text-align: center;
+    color: #79797977;
 
 }
 @media (max-width: 767px){
