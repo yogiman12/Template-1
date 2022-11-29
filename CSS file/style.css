@@ -336,6 +336,7 @@ color: var(--main-color);
     background-color: #ebeced;
     width: 100%;
     height:  calc( 100% + 80px);
+    top: -40px;
 }
 
 
