@@ -1,5 +1,5 @@
 :root{
-    
+    --main-color :#10cab7;
 }
 
 *{
@@ -133,6 +133,7 @@ body{
 
 .landing .intro-text h1 {
     margin: 0;
+    font-weight: bold;
 }
 .landing .intro-text {
     position: absolute;
