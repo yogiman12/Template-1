@@ -340,6 +340,8 @@ color: var(--main-color);
     left: -20px;
     z-index: -1;
 }
-
+.about .about-content .image::after{
+    top: -40px;
+}
 
 /* end about */
