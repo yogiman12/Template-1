@@ -315,4 +315,7 @@ color: var(--main-color);
     padding-top:  var(--section-padding);
     padding-bottom:  calc(var(--section-padding) + 60px);
 }
+.about-content{
+    margin-top: 100px;
+}
 /* end about */
