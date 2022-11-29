@@ -394,4 +394,8 @@ color: var(--main-color);
     background-color: var(--section-background);
     
   }
+  .contact .info {
+    padding-top: var(--section-padding);
+    
+  }
 /* end contact */
