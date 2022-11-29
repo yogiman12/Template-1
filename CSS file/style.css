@@ -253,7 +253,8 @@ color: var(--main-color);
     content: "";
     background-color: var(--secondary-color);
     width: 80px;
-    height: 100%;
+    height: calc(100% + 120px) ;
+    
 }
 .services .services-content .srv .image img {
     width: 260px;
