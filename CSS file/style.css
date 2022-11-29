@@ -52,6 +52,7 @@ body{
 .special-heading + p{
     margin: -3px 0 0;
     font-size: 20px;
+    text-align: center;
 
 }
 @media (max-width: 767px){
@@ -209,7 +210,7 @@ color: var(--main-color);
 /*end features*/
 /* start services */
 .services{
-    padding: 60px ;
-    
+    padding-top: 60px ;
+    padding-bottom: 60px;
 }
 /* end services */
