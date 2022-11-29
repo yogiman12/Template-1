@@ -132,7 +132,7 @@ body{
     border-width: 10px;
     border-style: solid;
     border-color: red green blue black;
-    border-color: transparent transparent #f6f6f6 transparent;
+    border-color: transparent transparent var(--section-background) transparent;
     position: absolute;
     right: 5px;
     top: -20px;
@@ -186,7 +186,7 @@ body{
 .features{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
     
 }
 .features .container{
@@ -282,5 +282,8 @@ color: var(--main-color);
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
 
+}
+.portfolio .portfolio-content {
+    display: grid;
 }
 /* end Portfolio */
