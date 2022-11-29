@@ -59,6 +59,9 @@ body{
         font-size: 60px;
     }
     
+    .special-heading +p {
+        margin-top: -20px;
+    }
 }
 
 /* end components */
