@@ -307,5 +307,6 @@ color: var(--main-color);
 .portfolio .portfolio-content .card .info p{
     color:  #777;
     margin-bottom: 0;
+    line-height: 1.6;
 }
 /* end Portfolio */
