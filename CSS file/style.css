@@ -143,3 +143,6 @@ body{
     top: 50%;
     transform: translate(-50%,-50%);
 }
+.landing .intro-text p{
+    font-size: 19px;
+}
