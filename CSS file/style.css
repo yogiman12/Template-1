@@ -235,6 +235,7 @@ color: var(--main-color);
   }
 .services .services-content .srv i {
     color:  var(--main-color);
+    flex-basis: 60px;
 }
 
 /* end services */
