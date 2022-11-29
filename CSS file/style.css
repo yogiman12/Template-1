@@ -135,7 +135,7 @@ body{
     margin: 0;
     font-weight: bold;
     font-size: 50px;
-    color: ;
+    color: var(--main-color);
 }
 .landing .intro-text {
     position: absolute;
